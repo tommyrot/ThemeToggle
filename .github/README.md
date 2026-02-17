@@ -1,3 +1,5 @@
+<img src="../icon.svg" width="96">
+
 # Theme Toggle
 
 Tiny **Firefox extension** that toggles the browser's color scheme between Light and Dark mode with a single click ***on the icon in the toolbar***. Any website that respects `prefers-color-scheme` or `light-dark()` will instantly switch its appearance.
