@@ -5,6 +5,14 @@
   "description": "Toggle Firefox's color scheme between Light and Dark.",
   "author": "tommyrot",
   "homepage_url": "https://github.com/tommyrot/themetoggle",
+  "browser_specific_settings": {
+    "gecko": {
+      "data_collection_permissions": {
+        "required": ["none"],
+        "optional": []
+      }
+    }
+  },
   "permissions": ["browserSettings", "storage"],
   "background": {
     "scripts": ["background.js"]
