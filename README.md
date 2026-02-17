@@ -8,8 +8,6 @@ I ain't got no time to dig for a tucked away setting everytime my eyes hurt. Als
 
 ## Permissions
 
-Theme Toggle requires only two permissions:
-
 - Read and modify browser settings -- this extension **only sets** the `overrideContentColorScheme` preference.
 - Local storage -- save your last choice so it persists across browser restarts **nothing else**.
 
@@ -31,10 +29,3 @@ Then pin the button to your toolbar:
 1. Click the **puzzle piece icon** (Extensions menu) in the toolbar.
 2. Find this extension and click the **gear icon** next to it.
 3. Select **Pin to Toolbar**.
-
-## Toggling
-
-The badge on the icon shows your current state:
-
-- **L** -- Light mode.
-- **D** -- Dark mode.
